@@ -8,10 +8,9 @@
 ## How to allocate resources
 ### To solve the massive pandemic that is brutally attacking New York, we must send as many resources there as we can. Because the city is so densely populated, there will be high demand for things such as masks, respirators, as well as resources like unemployment financing. It is the federal government's responsibility to get the situation in New York under control first, because if it doesn't, a massive amount of people will either die or spread the virus to other states.
 
-![](https://colab.research.google.com/drive/1zp1pTvoi2iAdzHqYSCfB_LdNrsA10gwE#scrollTo=MuxnXHhlojfi)
 
 #### Sources used:
 
-
+#### https://colab.research.google.com/drive/1zp1pTvoi2iAdzHqYSCfB_LdNrsA10gwE#scrollTo=MuxnXHhlojfi)
 #### https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html
 #### https://www.vox.com/2020/4/7/21205890/coronavirus-covid-19-pandemic-new-york-california
